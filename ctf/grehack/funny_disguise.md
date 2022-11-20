@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+# A funny disguise
 
 ## Challenge statement
 

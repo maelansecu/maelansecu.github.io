@@ -17,7 +17,7 @@ Using [StegOnline](https://stegonline.georgeom.net/), you can easily extract dat
 
 ![Screenshot_20221120_173817](https://user-images.githubusercontent.com/105165050/202914231-3c3247d2-b1e3-4542-93ad-f23f8fe8aefb.png)
 
-Note the particular configuration of LSB : bit plane order used is BGR and not the usual RGB.
+Note the particular configuration of LSB : bit plane order used is GBR and not the usual RGB.
 
 ![Screenshot_20221120_173837](https://user-images.githubusercontent.com/105165050/202914274-3431a2e8-9fe2-4cb0-9b5f-12de713c4062.png)
 

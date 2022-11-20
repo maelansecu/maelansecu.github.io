@@ -10,4 +10,5 @@ It will be updated soon so no worries !
 ## 2022
 
 [OSINT - A Funny Disguise](ctf/grehack/funny_disguise.md)<br>
-[Stega - My Periodic Table](ctf/grehack/periodic_table.md)
+[OSINT - Selfie](ctf/grehack/selfie.md)<br>
+[Stega - My Periodic Table](ctf/grehack/periodic_table.md)<br>

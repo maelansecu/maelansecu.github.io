@@ -6,7 +6,8 @@ layout: default
 
 ```I found this picture on a USB key I retrieved on the ground. Can you give me information about it?
 I'm looking for the place, the year, and the name of the two artists in the photograph.
-Flag format: GH22 {place_year_name1_name2}, with the names ordered alphabetically, everything in lowercase.```
+Flag format: GH22 {place_year_name1_name2}, with the names ordered alphabetically, everything in lowercase.
+```
 
 Picture can be downloaded here :
 

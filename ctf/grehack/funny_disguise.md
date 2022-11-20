@@ -26,7 +26,7 @@ While searching for it, we can find 2 things :
 - [A website page](https://www.thomsphotography.com/) that won't be of any use
 - [A facebbok page](https://www.facebook.com/thomsphotogrxphy)
 
-When we scroll on the Facebbok page, we can see a lot of cosplayers pictures, and then, the one we're looking for :
+When we scroll on the Facebook page, we can see a lot of cosplayers pictures, and then, the one we're looking for :
 
 ![Screenshot_20221120_164536](https://user-images.githubusercontent.com/105165050/202911811-30560141-218c-4eba-b32d-5a32a3c76a0d.png)
 

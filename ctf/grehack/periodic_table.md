@@ -2,13 +2,13 @@
 layout: default
 ---
 
-### Challenge statement
+## Challenge statement
 
 ```I don't remember how I hid my key in this file, but I left myself all the necessary clues in this picture...```
 
 Picture can be downloaded [here](https://cdn.discordapp.com/attachments/1043492406340882472/1043909462097924186/my_periodic_table.png)
 
-### Resolution
+## Resolution
 
 The picture has some cases of the periodic table colored : Li, Sc and Bi, respectively in green, blue and red.
 You can quickly deduct that this challenge is about LSB, and corresponding bits used to hide data are the 1st in green, 3rd in blue and 5th with red.

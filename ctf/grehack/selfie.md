@@ -9,7 +9,8 @@ layout: default
 ```I had a drink with the creator of this statue :)
 I found this person very nice but I don't remember what his name was... Help me!
 Flag: the complete author name in lowercase, with_instead of spaces and with all accented characters kept. (eg:
-GH22{name name...})```
+GH22{name name...})
+```
 
 Picture can be downloaded [here](https://cdn.discordapp.com/attachments/1043492406340882472/1043909343592063036/selfie.jpg)
 

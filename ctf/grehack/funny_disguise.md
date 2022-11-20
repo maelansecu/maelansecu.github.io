@@ -22,7 +22,7 @@ We can see a lot of useless informations, but one is quite useful : the author's
 While searching for it, we can find 2 things :
 
 - [A website page](https://www.thomsphotography.com/) that won't be of any use
-- [A facebbok page](https://www.facebook.com/thomsphotogrxphy)
+- [A facebook page](https://www.facebook.com/thomsphotogrxphy)
 
 When we scroll on the Facebook page, we can see a lot of cosplayers pictures, and then, the one we're looking for :
 

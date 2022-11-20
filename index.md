@@ -9,4 +9,4 @@ It will be updated soon so no worries !
 
 ## 2022
 
-<!--[ctf/grehack/funny_disguise.md](OSINT - A Funny Disguise)-->
+[ctf/grehack/funny_disguise.md](OSINT - A Funny Disguise)

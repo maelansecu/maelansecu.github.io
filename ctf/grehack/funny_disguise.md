@@ -9,9 +9,7 @@ I'm looking for the place, the year, and the name of the two artists in the phot
 Flag format: GH22 {place_year_name1_name2}, with the names ordered alphabetically, everything in lowercase.
 ```
 
-Picture can be downloaded here :
-
-https://cdn.discordapp.com/attachments/1043492406340882472/1043909548743864460/picture.jpg
+Picture can be downloaded [here](https://cdn.discordapp.com/attachments/1043492406340882472/1043909548743864460/picture.jpg)
 
 ## Resolution
 

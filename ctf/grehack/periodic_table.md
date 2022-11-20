@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+# My Periodic Table
 
 ## Challenge statement
 

@@ -20,8 +20,8 @@ At first, I had no idea where to look for some hints. I then guessed a bit about
 It's the aqueduct of Segovia. I then got a result pointing towards [TripAdvisor](https://www.tripadvisor.fr/Attraction_Review-g187494-d15841529-Reviews-Estatua_del_diablo_Segodeus-Segovia_Province_of_Segovia_Castile_and_Leon.html), telling us that it was the "Segodeus" statue.
 
 While Googling "segodeus statue", I got an [article from "Le Monde" (in french)](https://www.lemonde.fr/international/article/2019/02/12/en-espagne-le-diable-sur-le-banc-des-accuses_5422241_3210.html), stating that there was a debate about this statue.
-The name of its author is mentionned near the end : "José Antonio Adella". A few other articles helped me to check that there wasn't anything wrong with author's name, and when testing the flag, it didn't worked...
+The name of its author is mentionned near the end : "José Antonio Abella". A few other articles helped me to check that there wasn't anything wrong with author's name, and when testing the flag, it didn't worked...
 
-I continued my researches with the author's name and got this article : [https://www.eladelantado.com/opinion/manuel-fernandez-fernandez-diablo-mentirijillas/](Opinion - Un diablo de mentirijillas)(in spanish).
+I continued my researches with the author's name and got this article : [https://www.eladelantado.com/opinion/manuel-fernandez-fernandez-diablo-mentirijillas/](Opinion - Un diablo de mentirijillas)(in spanish). His full name is __"José Antonio Abella Mardones"__
 
 And here is our flag : `GH22{josé_antonio_abella_mardones}` !

@@ -11,4 +11,4 @@ I'll avoid as much as I can to give my personal opinion and try to be clear as p
 
 Well, it's quite a complicated question. <br>
 But we need to put a little context : <br>
-- First, in France, there are several Unions. But according to [this article](https://dares.travail-emploi.gouv.fr/donnees/la-syndicalisation), only 10.3% of public & private workers were members of one in 2019. The biggest Union for public/private workers is CFDT, which stands for French Confederation for Labor Democracy.
+- First, in France, there are several Unions. But according to [this article](https://dares.travail-emploi.gouv.fr/donnees/la-syndicalisation), only 10.3% of public & private workers were members of one in 2019. The biggest Union for public/private workers is CFDT, which stands for French Democratic Confederation for Labor (FDCL).

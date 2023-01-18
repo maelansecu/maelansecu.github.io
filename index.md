@@ -15,4 +15,4 @@ It's partially dedicated for CTFs write-ups and small articles, if you want you 
 
 # Short articles wrote by me
 
-[How do french protesters gather attention & are so popular ?](/articles/how_do_french_protesters.md)<br/>
+[How do french protesters organize to successfully revendicate ?](/articles/how_do_french_protesters.md)<br/>

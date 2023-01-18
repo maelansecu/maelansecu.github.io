@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+# Quick introduction to protests in France
 
 ## Short notice
 

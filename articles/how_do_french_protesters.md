@@ -13,9 +13,9 @@ I'll avoid as much as I can to give my personal opinion and try to be clear as p
 
 Well, it's quite a complicated question. <br>
 The summary will be as follows:<br>
--- First, we will explain a bit the context of protesting in France, what are the risks and how do people organize everything
--- Second, we will  dig a bit further into "How to organize a perfect french protest"
--- And finally, we are going to evoke a little about the current situation of protesting and strikes in France, what are the risks for this right and how do NGO fight for it.
+-- First, we will explain a bit the context of protesting in France, what are the risks and how do people organize everything ;<br>
+-- Second, we will  dig a bit further into "How to organize a perfect french protest" ; <br>
+-- And finally, we are going to evoke a little about the current situation of protesting and strikes in France, what are the risks for this right and how do NGO fight for it. <br>
 
 ### A little context
 

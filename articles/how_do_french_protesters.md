@@ -88,8 +88,8 @@ NGOs have also called for the police to be trained on how to handle protests in 
 
 ### <ins> Police violence </ins>
 
--- [Amnesty - "France: Call for suspending the use of rubber bullets fired with the LBD40 and for [...]", May 3, 2019 [ENG]](https://www.amnesty.org/en/documents/eur21/0304/2019/en/)
--- [FranceTV Info - "Violences policières : Amnesty International dénonce le "non-respect des droits humains" au Teknival de Redon", Sep. 24, 2021 [FR]](https://www.francetvinfo.fr/faits-divers/police/violences-policieres/violences-policieres-amnesty-international-denonce-le-non-respect-des-droits-humains-au-teknival-de-redon_4770597.html)
+-- [Amnesty - "France: Call for suspending the use of rubber bullets fired with the LBD40 and for [...]", May 3, 2019 [ENG]](https://www.amnesty.org/en/documents/eur21/0304/2019/en/)<br><br>
+-- [FranceTV Info - "Violences policières : Amnesty International dénonce le "non-respect des droits humains" au Teknival de Redon", Sep. 24, 2021 [FR]](https://www.francetvinfo.fr/faits-divers/police/violences-policieres/violences-policieres-amnesty-international-denonce-le-non-respect-des-droits-humains-au-teknival-de-redon_4770597.html)<br><br>
 -- [Civicus - "Excessive police force against "Yellow Vest" protesters threatens freedom of assembly", Feb. 21, 2019 [ENG]](https://monitor.civicus.org/updates/2019/02/21/excessive-police-force-against-yellowvest-protesters-threatens-freedom-of-assembly/)<br><br>
 -- [CNN - "France’s ‘yellow vest’ protesters detained and tear-gassed", Dec. 9, 2018 [ENG]](https://edition.cnn.com/2018/12/08/europe/france-protests-paris-intl/index.html)<br><br>
 -- [The Guardian - "French police clash with firefighters during Paris protest", Jan. 28, 2020 [FR]](https://www.theguardian.com/world/2020/jan/28/french-police-clash-with-firefighters-during-paris-protest)<br><br>

@@ -8,30 +8,28 @@ layout: default
 
 ## <ins> 1. Preamble </ins>
 
-This article, entirely wrote by me, is designed to inform non-french people about how French are currently organising when protesting.
-I'll avoid as much as I can to give my personal opinion and try to be as clear as possible.
-All the sources can be found in the end of the article.<br>
+This article, entirely written by me, is designed to inform non-french people about how the French are currently organizing when protesting. I’ll avoid as much as I can give my personal opinion and try to be as clear as possible. All the sources can be found at the end of the article.<br>
 <br>
 
 ## <ins> 2. So, how do they do ? </ins>
 
-Well, it's quite a complicated question. <br>
-The summary will be as follows:<br>
--- First, we will explain a bit the context of protesting in France, what are the risks and how do people organize everything ;<br>
--- Second, we will  dig a bit further into "How to organize a perfect french protest" ; <br>
--- And finally, we are going to evoke a little about the current situation of protesting and strikes in France, what are the risks for this right and how do NGO fight for it. <br>
+Well, it’s quite a complicated question.<br><br>
+The summary will be as follows:
+–- First, we will explain a bit about the context of protesting in France, what are the risks, and how people organize everything; <br>
+–- Second, we will dig a bit further into “How to organize a perfect French protest” ; <br>
+-– And finally, we are going to evoke a little about the current situation of protests and strikes in France, what are the risks for this right, and how to do NGOs fight for it. <br>
 <br>
 
 ### <ins> A little context </ins>
 
--- In France, there are several Unions. The biggest Union for public/private workers is CFDT, which stands for French Democratic Confederation for Labor (FDCL). But according to the DARES (Animation, statistics and research direction), only 10.1% (around 3 million people out of 29,2 million) of public & private workers were members of an Union in 2019. <br><br>
--- Medias often cover strikes and protests, but it quite ends up in stigmatisation : during the SNCF strike in Dec. 2022, protester were described as "sentimental hostage takers" or the general movement as a "scandal", because it was during X-Mas holidays.<br>
-<br>
+-– In France, there are several Unions. The biggest Union for public/private workers is CFDT, which stands for French Democratic Confederation for Labor (FDCL). But according to the DARES (Animation, statistics and research direction), only 10.1% (around 3 million people out of 29,2 million) of public & private workers were members of a Union in 2019.<br><br>
+
+–- Media often cover strikes and protests, but it quite ends up in stigmatization: during the SNCF strike in Dec. 2022, protesters were described as “sentimental hostage takers” or the general movement as a “scandal”, because it was during X-Mas holidays.<br><br>
 
 ### <ins> Illegal protest and police violence during protests </ins>
 
--- There is an illegal point in French law for protests and strikes, in regard of international laws : as Amnesty Internationalsays, "[...] The implementation of legislative and judicial mechanisms [...] leave room for arbitrariness.". It also mentions that "[...] a demonstration does not need to be authorized to be legal, but its declaration is mandatory.[...] An undeclared demonstration becomes in fact illegal, which amounts to making the prior declaration a kind of authorization mechanism." .<br><br>
--- It is also worth to mention that policemen often use force in disproportionate way resulting in several incidents with defense weapons.<br>
+-- There is an illegal point in French law for protests and strikes, regarding international laws: as Amnesty International says, “[…] The implementation of legislative and judicial mechanisms […] leave room for arbitrariness.”. It also mentions that “[…] a demonstration does not need to be authorized to be legal, but its declaration is mandatory.[…] An undeclared demonstration becomes [...] illegal, which amounts to making the prior declaration a kind of authorization mechanism.”. <br><br>
+-- It is also worth mentioning that policemen often disproportionately use force, resulting in several incidents with defense weapons.<br>
 <br>
 
 <!--## <ins>3. General functionning </ins>

@@ -24,7 +24,7 @@ The summary will be as follows:<br>
 
 ### A little context
 
--- First, in France, there are several Unions. The biggest Union for public/private workers is CFDT, which stands for French Democratic Confederation for Labor (FDCL). But according to the DARES (Animation, statistics and research direction), only 10.1% (around 3 million people out of 29,2 million) of public & private workers were members of an Union in 2019. <br><br>
+-- In France, there are several Unions. The biggest Union for public/private workers is CFDT, which stands for French Democratic Confederation for Labor (FDCL). But according to the DARES (Animation, statistics and research direction), only 10.1% (around 3 million people out of 29,2 million) of public & private workers were members of an Union in 2019. <br><br>
 -- Medias often cover strikes and protests, but it quite ends up in stigmatisation : during the SNCF strike in Dec. 2022, protester were described as "sentimental hostage takers" or the general movement as a "scandal", because it was during X-Mas holidays.<br>
 <br>
 

@@ -6,14 +6,14 @@ layout: default
 
 * * *
 
-## Short notice
+## 1. Short notice
 
 This article, entirely wrote by me, is designed to inform non-french people about how French are currently organising when protesting.
 I'll avoid as much as I can to give my personal opinion and try to be as clear as possible.
 All the sources can be found in the end of the article.<br>
 <br>
 
-## So, how do they do ?
+## 2. So, how do they do ?
 
 Well, it's quite a complicated question. <br>
 The summary will be as follows:<br>

@@ -4,6 +4,8 @@ layout: default
 
 # Quick introduction to protests in France
 
+* * *
+
 ## Short notice
 
 This article, entirely wrote by me, is designed to inform non-french people about how French are currently organising when protesting.
@@ -34,6 +36,8 @@ The summary will be as follows:<br>
 
 
 ## Sources :
+
+* * *
 
 ### Unions & medias POV
 

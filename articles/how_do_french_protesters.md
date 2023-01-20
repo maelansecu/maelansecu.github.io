@@ -56,7 +56,7 @@ Then you'll have to advertize about the protest you're organizing. You can use :
 -- Respect the laws and regulations: It is important to respect the laws and regulations regarding public gatherings and to avoid any actions that could lead to violence or damage to property.
 <br><br>
 
-## <ins> Current situation about protests in France</ins>
+## <ins> Current situation & police violence</ins>
 
 France has been experiencing a wave of protests and demonstrations in recent years. The main reason behind the protests has been the economic policies of the French government, particularly the rise in fuel prices and the implementation of a new pension system.<br>
 Police violence during protests in France has been a significant issue in recent years, particularly in the context of the "Yellow Vests" or "Gilets Jaunes" movement that began in 2018. The movement, which started as a protest against an increase in fuel taxes, quickly grew and expanded to include a wide range of grievances, including high taxes, the high cost of living, and the perceived disregard of the government for the needs and concerns of working-class citizens.<br>

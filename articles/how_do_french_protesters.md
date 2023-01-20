@@ -35,7 +35,7 @@ The summary will be as follows:<br>
 <!--## <ins>3. General functionning </ins>
 
 So, here we are. You want to protest against something, let's say, a law is about to pass and you don't want it. But you want to do it *à la française*. How to proceed ?<br><br>
-First, if you're part of an association, you should fill up a "model of prior declaration of an event on the public highway". It will ensure you have all the necessary authorizations from townhalls/prefecture where the protest will be held. You'll need to depose it minimum 3 clear days before the protest and maximum 15 days before it. -<br>
+First, if you're part of an association, you should fill up a "model of prior declaration of an event on the public highway". It will ensure you have all the necessary authorizations from townhalls/prefecture to run this protest. You'll need to depose it minimum 3 clear days before the protest and maximum 15 days before it. -<br>
 Second, you will need to... *wait*.-->
 
 

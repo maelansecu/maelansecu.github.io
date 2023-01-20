@@ -13,7 +13,7 @@ I'll avoid as much as I can to give my personal opinion and try to be as clear a
 All the sources can be found in the end of the article.<br>
 <br>
 
-## 2. So, how do they do ?
+## <ins> 2. So, how do they do ? </ins>
 
 Well, it's quite a complicated question. <br>
 The summary will be as follows:<br>
@@ -22,23 +22,23 @@ The summary will be as follows:<br>
 -- And finally, we are going to evoke a little about the current situation of protesting and strikes in France, what are the risks for this right and how do NGO fight for it. <br>
 <br>
 
-### A little context
+### <ins> A little context </ins>
 
 -- In France, there are several Unions. The biggest Union for public/private workers is CFDT, which stands for French Democratic Confederation for Labor (FDCL). But according to the DARES (Animation, statistics and research direction), only 10.1% (around 3 million people out of 29,2 million) of public & private workers were members of an Union in 2019. <br><br>
 -- Medias often cover strikes and protests, but it quite ends up in stigmatisation : during the SNCF strike in Dec. 2022, protester were described as "sentimental hostage takers" or the general movement as a "scandal", because it was during X-Mas holidays.<br>
 <br>
 
-### Illegal protest and police violence during protests
+### <ins> Illegal protest and police violence during protests </ins>
 
 -- There is an illegal point in French law for protests and strikes, in regard of international laws : as Amnesty Internationalsays, "[...] The implementation of legislative and judicial mechanisms [...] leave room for arbitrariness.". It also mentions that "[...] a demonstration does not need to be authorized to be legal, but its declaration is mandatory.[...] An undeclared demonstration becomes in fact illegal, which amounts to making the prior declaration a kind of authorization mechanism." .<br><br>
 -- It is also worth to mention that policemen often use force in disproportionate way resulting in several incidents with defense weapons.<br>
 <br>
 
-## Sources :
+## <ins> Sources :</ins>
 
 * * *
 
-### Unions & medias POV
+### <ins> Unions & medias POV</ins>
 
 -- [Swissinfo - "Trade unuins call for more strikes over Macron's pension reform", Jan. 19, 2023 [ENG]](https://www.swissinfo.ch/eng/reuters/trade-unions-call-for-more-strikes-over-macron-s-pension-reform/48217084)<br><br>
 -- [DARES - Union members [FR]](https://dares.travail-emploi.gouv.fr/donnees/la-syndicalisation)<br><br>
@@ -47,7 +47,7 @@ The summary will be as follows:<br>
 -- [Ouest-France - Strike at the SNCF. Christelle Morançais castigates "the selfish spirit of these unconscious", Dec. 22, 2022 [FR]](https://www.ouest-france.fr/pays-de-la-loire/nantes-44000/greve-a-la-sncf-christelle-morancais-fustige-l-esprit-egoiste-de-ces-inconscients-4782f01c-8203-11ed-95d2-87cbdb857717)<br>
 <br>
 
-### Legal POV
+### <ins> Legal POV</ins>
 
 -- [Amnesty - "All about the right to demonstrate in France" [FR]](https://www.amnesty.fr/focus/tout-savoir-sur-le-droit-de-manifester-en-france)<br><br>
 -- [Amnesty - "Protest right in France" [FR]](https://www.amnesty.fr/dossiers/droit-de-manifester-en-france)<br><br>

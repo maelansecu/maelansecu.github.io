@@ -24,13 +24,13 @@ The summary will be as follows:<br>
 
 ### A little context
 
-- First, in France, there are several Unions. The biggest Union for public/private workers is CFDT, which stands for French Democratic Confederation for Labor (FDCL). But according to the DARES (Animation, statistics and research direction), only 10.1% (around 3 million people out of 29,2 million) of public & private workers were members of an Union in 2019. <br>
-- Medias often cover strikes and protests, but it quite ends up in stigmatisation : during the SNCF strike in Dec. 2022, protester were described as "sentimental hostage takers" or the general movement as a "scandal", because it was during X-Mas holidays.<br>
+-- First, in France, there are several Unions. The biggest Union for public/private workers is CFDT, which stands for French Democratic Confederation for Labor (FDCL). But according to the DARES (Animation, statistics and research direction), only 10.1% (around 3 million people out of 29,2 million) of public & private workers were members of an Union in 2019. <br><br>
+-- Medias often cover strikes and protests, but it quite ends up in stigmatisation : during the SNCF strike in Dec. 2022, protester were described as "sentimental hostage takers" or the general movement as a "scandal", because it was during X-Mas holidays.<br>
 <br>
 
 ### Illegal protest and police violence during protests
 
--- There is an illegal point in French law for protests and strikes, in regard of international laws : as Amnesty Internationalsays, "[...] The implementation of legislative and judicial mechanisms [...] leave room for arbitrariness." . It also mentions that "[...] a demonstration does not need to be authorized to be legal, but its declaration is mandatory.[...] An undeclared demonstration becomes in fact illegal, which amounts to making the prior declaration a kind of authorization mechanism." .<br>
+-- There is an illegal point in French law for protests and strikes, in regard of international laws : as Amnesty Internationalsays, "[...] The implementation of legislative and judicial mechanisms [...] leave room for arbitrariness." . It also mentions that "[...] a demonstration does not need to be authorized to be legal, but its declaration is mandatory.[...] An undeclared demonstration becomes in fact illegal, which amounts to making the prior declaration a kind of authorization mechanism." .<br><br>
 -- It is also worth to mention that policemen often use force in disproportionate way resulting in several incidents with defense weapons.<br>
 <br>
 
@@ -49,8 +49,9 @@ The summary will be as follows:<br>
 
 ### Legal POV
 
-- [Amnesty - "All about the right to demonstrate in France" [FR]](https://www.amnesty.fr/focus/tout-savoir-sur-le-droit-de-manifester-en-france)
-- [Amnesty - "Protest right in France" [FR]](https://www.amnesty.fr/dossiers/droit-de-manifester-en-france)<br>
+-- [Amnesty - "All about the right to demonstrate in France" [FR]](https://www.amnesty.fr/focus/tout-savoir-sur-le-droit-de-manifester-en-france)
+-- [Amnesty - "Protest right in France" [FR]](https://www.amnesty.fr/dossiers/droit-de-manifester-en-france)<br>
+-- [International Covenant on Civil and Political Rights [ENG]](https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights)<br>
 <br>
 
 <!--### Police violence-->

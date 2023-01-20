@@ -15,16 +15,16 @@ This article, entirely written by me, is designed to inform non-french people ab
 
 Well, it’s quite a complicated question.<br><br>
 The summary will be as follows:
-–- First, we will explain a bit about the context of protesting in France, what are the risks, and how people organize everything; <br>
-–- Second, we will dig a bit further into “How to organize a perfect French protest” ; <br>
--– And finally, we are going to evoke a little about the current situation of protests and strikes in France, what are the risks for this right, and how to do NGOs fight for it. <br>
+-- First, we will explain a bit about the context of protesting in France, what are the risks, and how people organize everything; <br>
+-- Second, we will dig a bit further into “How to organize a perfect French protest” ; <br>
+-- And finally, we are going to evoke a little about the current situation of protests and strikes in France, what are the risks for this right, and how to do NGOs fight for it. <br>
 <br>
 
 ### <ins> A little context </ins>
 
--– In France, there are several Unions. The biggest Union for public/private workers is CFDT, which stands for French Democratic Confederation for Labor (FDCL). But according to the DARES (Animation, statistics and research direction), only 10.1% (around 3 million people out of 29,2 million) of public & private workers were members of a Union in 2019.<br><br>
+-- In France, there are several Unions. The biggest Union for public/private workers is CFDT, which stands for French Democratic Confederation for Labor (FDCL). But according to the DARES (Animation, statistics and research direction), only 10.1% (around 3 million people out of 29,2 million) of public & private workers were members of a Union in 2019.<br><br>
 
-–- Media often cover strikes and protests, but it quite ends up in stigmatization: during the SNCF strike in Dec. 2022, protesters were described as “sentimental hostage takers” or the general movement as a “scandal”, because it was during X-Mas holidays.<br><br>
+-- Media often cover strikes and protests, but it quite ends up in stigmatization: during the SNCF strike in Dec. 2022, protesters were described as “sentimental hostage takers” or the general movement as a “scandal”, because it was during X-Mas holidays.<br><br>
 
 ### <ins> Illegal protest and police violence during protests </ins>
 

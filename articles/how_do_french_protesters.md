@@ -41,15 +41,15 @@ The summary will be as follows:<br>
 
 ### Unions & medias POV
 
-[Swissinfo - "Trade unuins call for more strikes over Macron's pension reform", Jan. 19, 2023 [ENG]](https://www.swissinfo.ch/eng/reuters/trade-unions-call-for-more-strikes-over-macron-s-pension-reform/48217084)
-[DARES - Union members [FR]](https://dares.travail-emploi.gouv.fr/donnees/la-syndicalisation)
-[France Bleu - "It's a hostage situation": the strike at the SNCF for the Christmas weekend upsets the Mayennais, Dec. 20, 2022, [FR]](https://www.francebleu.fr/infos/societe/c-est-une-prise-d-otage-la-greve-a-la-sncf-pour-le-week-end-de-noel-contrarient-les-mayennais-3921103)
-[La Libre - "A hostage situation", "a scandal": strong controversy in France following the cancellation of hundreds of SNCF trains during the Christmas holidays, Dec. 21, 2022 [FR]](https://www.lalibre.be/economie/entreprises-startup/2022/12/21/une-prise-dotage-un-scandale-vive-polemique-en-france-suite-a-lannulation-de-centaines-de-trains-sncf-lors-des-fetes-de-noel-UAEJVR24HZCG7OFKAWREW3EPVI/)
-[Ouest-France - Strike at the SNCF. Christelle Morançais castigates "the selfish spirit of these unconscious", Dec. 22, 2022 [FR]](https://www.ouest-france.fr/pays-de-la-loire/nantes-44000/greve-a-la-sncf-christelle-morancais-fustige-l-esprit-egoiste-de-ces-inconscients-4782f01c-8203-11ed-95d2-87cbdb857717)
+- [Swissinfo - "Trade unuins call for more strikes over Macron's pension reform", Jan. 19, 2023 [ENG]](https://www.swissinfo.ch/eng/reuters/trade-unions-call-for-more-strikes-over-macron-s-pension-reform/48217084)
+- [DARES - Union members [FR]](https://dares.travail-emploi.gouv.fr/donnees/la-syndicalisation)
+- [France Bleu - "It's a hostage situation": the strike at the SNCF for the Christmas weekend upsets the Mayennais, Dec. 20, 2022, [FR]](https://www.francebleu.fr/infos/societe/c-est-une-prise-d-otage-la-greve-a-la-sncf-pour-le-week-end-de-noel-contrarient-les-mayennais-3921103)
+- [La Libre - "A hostage situation", "a scandal": strong controversy in France following the cancellation of hundreds of SNCF trains during the Christmas holidays, Dec. 21, 2022 [FR]](https://www.lalibre.be/economie/entreprises-startup/2022/12/21/une-prise-dotage-un-scandale-vive-polemique-en-france-suite-a-lannulation-de-centaines-de-trains-sncf-lors-des-fetes-de-noel-UAEJVR24HZCG7OFKAWREW3EPVI/)
+- [Ouest-France - Strike at the SNCF. Christelle Morançais castigates "the selfish spirit of these unconscious", Dec. 22, 2022 [FR]](https://www.ouest-france.fr/pays-de-la-loire/nantes-44000/greve-a-la-sncf-christelle-morancais-fustige-l-esprit-egoiste-de-ces-inconscients-4782f01c-8203-11ed-95d2-87cbdb857717)
 
 ### Legal POV
 
-[Amnesty - "All about the right to demonstrate in France" [FR]](https://www.amnesty.fr/focus/tout-savoir-sur-le-droit-de-manifester-en-france)
-[Amnesty - "Protest right in France" [FR]](https://www.amnesty.fr/dossiers/droit-de-manifester-en-france)
+- [Amnesty - "All about the right to demonstrate in France" [FR]](https://www.amnesty.fr/focus/tout-savoir-sur-le-droit-de-manifester-en-france)
+- [Amnesty - "Protest right in France" [FR]](https://www.amnesty.fr/dossiers/droit-de-manifester-en-france)
 
 <!--### Police violence-->

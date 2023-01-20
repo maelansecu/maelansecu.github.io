@@ -74,10 +74,6 @@ During the protests, there have been multiple reports of police using excessive 
 -- [France Bleu - ""It's a hostage situation": the strike at the SNCF for the Christmas weekend upsets the Mayennais", Dec. 20, 2022, [FR]](https://www.francebleu.fr/infos/societe/c-est-une-prise-d-otage-la-greve-a-la-sncf-pour-le-week-end-de-noel-contrarient-les-mayennais-3921103)<br><br>
 -- [La Libre - ""A hostage situation", "a scandal": strong controversy in France following the cancellation of hundreds [...]", Dec. 21, 2022 [FR]](https://www.lalibre.be/economie/entreprises-startup/2022/12/21/une-prise-dotage-un-scandale-vive-polemique-en-france-suite-a-lannulation-de-centaines-de-trains-sncf-lors-des-fetes-de-noel-UAEJVR24HZCG7OFKAWREW3EPVI/)<br><br>
 -- [Ouest-France - "Strike at the SNCF. Christelle Morançais castigates "the selfish spirit of these unconscious"", Dec. 22, 2022 [FR]](https://www.ouest-france.fr/pays-de-la-loire/nantes-44000/greve-a-la-sncf-christelle-morancais-fustige-l-esprit-egoiste-de-ces-inconscients-4782f01c-8203-11ed-95d2-87cbdb857717)<br><br>
--- [The Guardian - "French police clash with firefighters during Paris protest", Jan. 28, 2020 [FR]](https://www.theguardian.com/world/2020/jan/28/french-police-clash-with-firefighters-during-paris-protest)<br><br>
--- [BBC News - "French police video of officer hitting protesters sparks inquiry", Jan. 20, 2020 [ENG]](https://www.bbc.com/news/world-europe-51174778)<br><br>
--- [Daily Mail - "French police arrest 150 people and spray water canon at bottle-throwing demonstrators [...] [ENG]](https://www.dailymail.co.uk/news/article-9046781/French-police-arrest-150-people-weekend-protests-against-new-security-law.html)<br><br>
-
 
 ### <ins> Legal POV</ins>
 
@@ -90,5 +86,8 @@ During the protests, there have been multiple reports of police using excessive 
 
 ### <ins> Police violence </ins>
 
--- [Civicus - "Excessive police force against &quot;Yellow Vest&quot; protesters threatens freedom of assembly", Feb. 21, 2019 [ENG]](https://monitor.civicus.org/updates/2019/02/21/excessive-police-force-against-yellowvest-protesters-threatens-freedom-of-assembly/)<br><br>
+-- [Civicus - "Excessive police force against "Yellow Vest" protesters threatens freedom of assembly", Feb. 21, 2019 [ENG]](https://monitor.civicus.org/updates/2019/02/21/excessive-police-force-against-yellowvest-protesters-threatens-freedom-of-assembly/)<br><br>
 -- [CNN - "France’s ‘yellow vest’ protesters detained and tear-gassed", Dec. 9, 2018 [ENG]](https://edition.cnn.com/2018/12/08/europe/france-protests-paris-intl/index.html)<br><br>
+-- [The Guardian - "French police clash with firefighters during Paris protest", Jan. 28, 2020 [FR]](https://www.theguardian.com/world/2020/jan/28/french-police-clash-with-firefighters-during-paris-protest)<br><br>
+-- [BBC News - "French police video of officer hitting protesters sparks inquiry", Jan. 20, 2020 [ENG]](https://www.bbc.com/news/world-europe-51174778)<br><br>
+-- [Daily Mail - "French police arrest 150 people and spray water canon at bottle-throwing demonstrators [...]", Dec. 12, 2020 [ENG]](https://www.dailymail.co.uk/news/article-9046781/French-police-arrest-150-people-weekend-protests-against-new-security-law.html)<br><br>

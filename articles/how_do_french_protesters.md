@@ -32,12 +32,35 @@ The summary will be as follows:<br>
 -- It is also worth mentioning that policemen often disproportionately use force, resulting in several incidents with defense weapons.<br>
 <br>
 
-<!--## <ins>3. General functionning </ins>
+## <ins>3. General functionning </ins>
 
 So, here we are. You want to protest against something, let's say, a law is about to pass and you don't want it. But you want to do it *à la française*. How to proceed ?<br><br>
-First, if you're part of an association, you should fill up a "model of prior declaration of an event on the public highway". It will ensure you have all the necessary authorizations from townhalls/prefecture to run this protest. You'll need to depose it minimum 3 clear days before the protest and maximum 15 days before it. -<br>
-Second, you will need to... *wait*.-->
+First, if you're part of an association, you should :<br>
+-- Choose a location: The location of the protest should be chosen carefully, taking into consideration the safety of participants and the potential impact on the community. It is important to ensure that the location is easily accessible and that it can accommodate the expected number of participants.<br>
+-- Plan the route: The route of the demonstration must also be approved by the local authorities. It should be clearly marked and easily accessible for participants. <br>
+-- Fill up a "model of prior declaration of an event on the public highway". It will ensure you have all the necessary authorizations from townhalls/prefecture to run this protest. You'll need to depose it minimum 3 clear days and maximum 15 days before the protest.<br>
+Then you'll have to advertize about the protest you're organizing. You can use :<br>
+  -- Social Media <br>
 
+  -- Flyering and Postering <br>
+
+  -- Word of Mouth<br>
+
+  -- News Coverage<br>
+
+  -- Online Petitions<br>
+
+  -- Coordination with Other Groups<br><br>
+
+-- Be prepared for the demonstration: Make sure to have a plan in case of emergencies, like medical issues, and ensure that the demonstration remains peaceful.<br>
+-- Respect the laws and regulations: It is important to respect the laws and regulations regarding public gatherings and to avoid any actions that could lead to violence or damage to property.
+<br><br>
+
+## <ins> Current situation about protests in France</ins>
+
+France has been experiencing a wave of protests and demonstrations in recent years. The main reason behind the protests has been the economic policies of the French government, particularly the rise in fuel prices and the implementation of a new pension system.<br>
+Police violence during protests in France has been a significant issue in recent years, particularly in the context of the "Yellow Vests" or "Gilets Jaunes" movement that began in 2018. The movement, which started as a protest against an increase in fuel taxes, quickly grew and expanded to include a wide range of grievances, including high taxes, the high cost of living, and the perceived disregard of the government for the needs and concerns of working-class citizens.<br>
+During the protests, there have been multiple reports of police using excessive force against demonstrators. This has included the use of tear gas, rubber bullets, and water cannons, as well as physical violence. The use of these tactics has resulted in injuries to both protesters and police, and has caused significant damage to property.  The use of flash-balls, a type of rubber bullet, have been particularly controversial as it have caused severe injuries, even causing blindness in some cases.<br><br>
 
 
 ## <ins> Sources :</ins>
@@ -62,7 +85,10 @@ Second, you will need to... *wait*.-->
 -- [Amnesty - "Protest right in France" [FR]](https://www.amnesty.fr/dossiers/droit-de-manifester-en-france)<br><br>
 -- [International Covenant on Civil and Political Rights - Article 21 [ENG]](https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights#article-21)<br><br>
 -- [Public service - "Organization of demonstrations, parades or gatherings on the public highway" [FR]](https://www.service-public.fr/particuliers/vosdroits/F21899)<br><br>
--- [Association: model of prior declaration of an event on the public highway (Sample letter) [FR]](https://www.service-public.fr/particuliers/vosdroits/R2237)
+-- [Association: model of prior declaration of an event on the public highway (Sample letter) [FR]](https://www.service-public.fr/particuliers/vosdroits/R2237)<br><br>
 
 
-<!--### Police violence-->
+### <ins> Police violence </ins>
+
+-- [Civicus - "Excessive police force against &quot;Yellow Vest&quot; protesters threatens freedom of assembly", Feb. 21, 2019 [ENG]](https://monitor.civicus.org/updates/2019/02/21/excessive-police-force-against-yellowvest-protesters-threatens-freedom-of-assembly/)<br><br>
+-- [CNN - "France’s ‘yellow vest’ protesters detained and tear-gassed", Dec. 9, 2018 [ENG]](https://edition.cnn.com/2018/12/08/europe/france-protests-paris-intl/index.html)<br><br>

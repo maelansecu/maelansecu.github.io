@@ -242,11 +242,19 @@ hr {
 /* Links
    a, a:hover, a:visited
 */
-
 a {
-  color: #11aa0a;
+  color: #63c0f5;
+  text-shadow: 0 0 5px #aab6ff54;
 }
 
+a:hover{
+  text-shadow: 1px 1px 2px blue;
+}
+
+a:visited{
+  text-shadow: 1px 1px 2px #6e0aff54;
+}
+  
 /* Clearfix */
 
 .cf:before, .cf:after {

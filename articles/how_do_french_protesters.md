@@ -25,6 +25,7 @@ The summary will be as follows:<br>
 
 <br>
 <br>
+
 ### Illegal protest and police violence during protests
 
 -- There is an illegal point in French law for protests and strikes, in regard of international laws : as Amnesty Internationalsays, "[...] The implementation of legislative and judicial mechanisms [...] leave room for arbitrariness." . It also mentions that "[...] a demonstration does not need to be authorized to be legal, but its declaration is mandatory.[...] An undeclared demonstration becomes in fact illegal, which amounts to making the prior declaration a kind of authorization mechanism." .<br>

@@ -18,3 +18,4 @@ It's partially dedicated for CTFs write-ups and small articles, if you want you 
 ## 2023
 
 [Quick introduction to protests in France](/articles/how_do_french_protesters.md)<br/>
+[Under construction - Random article about WRC ]()

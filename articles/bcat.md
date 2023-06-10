@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Bellingcat - Presentation and work
+## Bellingcat - Presentation and work (via ChatGPT)
 
 1. Bellingcat is an investigative journalism organization based in Amsterdam, founded in 2014 by Eliot Higgins. The organization specializes in using OSINT to investigate global events, such as armed conflicts, security incidents, and human rights violations. 
 

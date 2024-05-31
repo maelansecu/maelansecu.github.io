@@ -3,7 +3,7 @@ layout: default
 ---
 
 Hello, here is a quick website I forked from the Hacker Theme (Github Pages).
-It's partially dedicated for CTFs write-ups and small articles, if you want you can check [my portfolio](https://m0onshadow.github.io).
+It's partially dedicated for CTFs write-ups and small articles.
 
 # Grehack Write-ups
 

@@ -2,14 +2,22 @@
 layout: default
 ---
 
-## Bellingcat - Presentation and work (via ChatGPT)
+## Bellingcat: The Digital Detectives Changing Journalism
 
-1. Bellingcat is an investigative journalism organization based in Amsterdam, founded in 2014 by Eliot Higgins. The organization specializes in using OSINT to investigate global events, such as armed conflicts, security incidents, and human rights violations. 
+Ever heard of Bellingcat? If not, buckle up – you're in for a ride.
 
-2. Their method is to collect and analyze open data, such as images, videos, testimonies, and documents, from publicly available sources on the Internet. Bellingcat investigators also work with other media organizations to obtain additional information and verify facts. The results of their investigations have been published in many reputable media outlets, such as The New York Times, The Guardian, Der Spiegel and BBC News. Thanks to these methods, they are able to investigate faster than traditional medias.
+Picture this: It's 2014, and a guy named Eliot Higgins decides to shake up the world of journalism from Amsterdam. His brainchild? Bellingcat – a scrappy team of digital sleuths who've made it their mission to uncover the truth about global events using nothing but publicly available information.
 
-4. Their work started with Syrian crisis in 2011, when Bashal el-Assad used chemical weapons against Syria inhabitants. Here are some notable work : MH17 flight (which was took down by Russia in 2014), war in Eastern Ukraine, El Junquito raid, Yemeni Civil War, Skripal poisoning, Christchurch mosque shootings, poisoning of Alexei Navalny, the **Maria Adela** case (who was in fact a GRU spy), and so on. And in addition to their investigative work, Bellingcat organizes trainings and workshops to teach journalists, human rights advocates and citizens how to conduct investigations using open source.
+These folks aren't your typical journalists. They're like the CIA of the internet, minus the fancy gadgets and black suits. Their superpower? OSINT – Open Source Intelligence. They scour the web for images, videos, social media posts – you name it – to piece together what really happened in conflicts, crimes, and controversies around the globe.
 
-5. They are funded through donations and subscriptions from various organizations and foundations. They have a team of survey professionals and researchers, as well as a community of volunteer contributors (which I am part of, somehow). Their work is checked several times by a team of experts, and they are able to quickly process and publish it.
+Bellingcat's claim to fame? They're fast. Like, really fast. While traditional media is still trying to get boots on the ground, these digital detectives are already piecing together the puzzle. They've tackled everything from the Syrian crisis and the downing of flight MH17 to the poisoning of Alexei Navalny. Oh, and remember that story about "Maria Adela," the socialite who turned out to be a Russian spy? Yep, that was them too.
 
-6. In short, Bellingcat is an investigative journalism organization that uses innovative open source-based investigative methods to uncover information about important and sensitive world events. They have a strong reputation for quality work and a commitment to transparency and independence. They are becoming an essential part of the journalism landscape, as some OSINT communities rise to help people recover the truth.
+But here's the kicker – they're not keeping their methods secret. Bellingcat runs workshops to teach everyday people how to be digital detectives. It's like they're creating an army of internet Sherlock Holmes.
+
+Now, you might be wondering, "Who's bankrolling all this?" Well, it's a mix of donations and subscriptions. They've got a core team of pros, but they also rely on a network of volunteers (yours truly included, in a small way).
+
+Don't think for a second that this is some fly-by-night operation, though. Their work goes through rigorous fact-checking before it sees the light of day. And when it does? You'll find it in heavy-hitters like The New York Times, The Guardian, and BBC News.
+
+In a nutshell, Bellingcat is turning the world of investigative journalism on its head. They're proving that sometimes, the truth isn't buried in deep, dark secrets – it's hiding in plain sight on the internet. And as more OSINT communities pop up, Bellingcat is leading the charge in this new frontier of journalism.
+
+So next time you hear about a major world event, remember – there's a good chance a group of internet sleuths is already on the case, armed with nothing but their laptops and a whole lot of determination.
